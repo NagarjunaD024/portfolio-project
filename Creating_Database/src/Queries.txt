@@ -44,4 +44,17 @@ CREATE TABLE team_player (
         FOREIGN KEY(team_id) REFERENCES team (team_id), 
         FOREIGN KEY(player_id) REFERENCES player (player_id)
 );
+
+
+# Start the SQLite shell
+sqlite3 fantasy_data.db
+
+# Prepare for CSV import and import the first file (example)
+sqlite> .mode csv
+sqlite> .import --skip 1 ./data/player_data.csv player
+
+# Repeat for other files...
+sqlite> .import --skip 1 ./data/team_data.csv team
+sqlite> .import --skip 1 ./data/league_data.csv league
+# ...and so on for all CSV files.
 """
