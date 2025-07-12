@@ -29,7 +29,9 @@ pip3 install -r requirements.txt
 ```
 ### 🗃️ Database Setup
 
-Review Creating_Database Repository
+### 🗃️ Database Setup
+
+Review [Creating_Database](Creating_Database) Repository
 
 ---
 ### 📁 Directory Layout
