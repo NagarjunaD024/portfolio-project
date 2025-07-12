@@ -1,3 +1,4 @@
+"""
 CREATE TABLE player (
         player_id INTEGER NOT NULL, 
         gsis_id VARCHAR, 
@@ -43,3 +44,4 @@ CREATE TABLE team_player (
         FOREIGN KEY(team_id) REFERENCES team (team_id), 
         FOREIGN KEY(player_id) REFERENCES player (player_id)
 );
+"""
