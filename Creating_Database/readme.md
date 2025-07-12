@@ -25,6 +25,7 @@ From your terminal, run:
 ```bash
 pip3 install -r requirements.txt
 ```
+Note - Create the tables from Queries.txt in SQLlite db and populate the db with data(.scv files). 
 ---
 ### 📁 Directory Layout
 
