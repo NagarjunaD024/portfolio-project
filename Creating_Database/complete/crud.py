@@ -2,7 +2,7 @@
 from sqlalchemy.orm import Session
 from sqlalchemy.orm import joinedload
 from datetime import date
-
+import database
 import models
 
 def get_player(db: Session, player_id: int):
@@ -72,3 +72,4 @@ def get_team_count(db: Session):
 def get_league_count(db: Session):
     query = db.query(models.League)
     return query.count()
+
