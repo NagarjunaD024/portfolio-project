@@ -1,4 +1,4 @@
-"""FastAPI program - Chapter 5"""
+"""FastAPI program """
 
 from fastapi import Depends, FastAPI, HTTPException, Query
 from sqlalchemy.orm import Session
@@ -31,7 +31,6 @@ app = FastAPI(
     title="Sports World Central (SWC) Fantasy Football API",
     version="0.1",
 )
-
 
 # Dependency
 def get_db():
