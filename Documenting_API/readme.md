@@ -1,4 +1,17 @@
-# Documenting Your API
+<div align="center">
+
+# Chapter 5-  Documenting Your API
+
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-green)
+![Pytest](https://img.shields.io/badge/Testing-Pytest-blue)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Data%20Validation-Pydantic-orange?logo=pydantic&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Web%20Server-Uvicorn-purple?logo=uvicorn&logoColor=white)
+
+</div>
+
+
 # SportsWorldCentral (SWC) Fantasy Football API Documentation
 
 Thanks for using the SportsWorldCentral API. This is your one-stop shop for
