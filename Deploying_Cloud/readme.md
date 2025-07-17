@@ -1,4 +1,4 @@
-# Chapter 5 - Deploying your API both locally and in the cloud
+# 6 - Deploying your API both locally and in the cloud
 
 ## Public API
 
