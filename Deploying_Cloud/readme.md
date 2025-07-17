@@ -2,8 +2,6 @@
 
 ## Public API
 
-## Public API
-
 Our API is hosted at [API URL](https://aws-api-container.zb25p7bdj258j.eu-central-1.cs.amazonlightsail.com).
 
 You can access the interactive documentation at [[API URL]/docs](https://aws-api-container.zb25p7bdj258j.eu-central-1.cs.amazonlightsail.com/docs).
