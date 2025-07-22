@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "swcpy"
 version = "0.0.3"
 authors = [
-  { name="[Your Name]" },
+  { name="[Arjuna Gottipati]" },
 ]
 description = "Example Software Development Kit (SDK) from Hands-On API Book for AI and Data Science"
 requires-python = ">=3.10"
