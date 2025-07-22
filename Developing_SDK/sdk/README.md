@@ -1,8 +1,3 @@
-# swcpy software development kit (SDK)
-This is the Python SDK to interact with the SportsWorldCentral Football API, 
-which was created for the book [Hands-On APIs for AI and Data Science]
-(https://handsonapibook.com).
-
 ## Installing swcpy
 
 To install this SDK in your environment, execute the following command:
