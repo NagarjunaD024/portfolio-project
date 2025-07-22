@@ -1,3 +1,16 @@
+<div align="center">
+
+# Chapter 7 - Creating a Python SDK
+![pytest](https://img.shields.io/badge/Test-pytest-%23624CAA?logo=pytest&logoColor=white)
+![httpx](https://img.shields.io/badge/HTTP-httpx-%23228BE6?logo=python&logoColor=white)
+![pydantic](https://img.shields.io/badge/Data-pydantic-%23E83A59?logo=python&logoColor=white)
+![backoff](https://img.shields.io/badge/Retry-backoff-%237952B3?logo=python&logoColor=white)
+![pyarrow](https://img.shields.io/badge/Data-pyarrow-%2350C878?logo=apachearrow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi&logoColor=white)
+</div>
+
+
+
 ## Installing swcpy
 
 To install this SDK in your environment, execute the following command:
@@ -16,7 +29,7 @@ method for setting the base URL for the SWC API is by creating a Python
 `.env` file in your project directory with the following value:
 
 ```
-SWC_API_BASE_URL={URL of your API}
+SWC_API_BASE_URL={"http://0.0.0.0:8000"}
 ```
 
 You may also set this value as an environment variable in the environment you 
